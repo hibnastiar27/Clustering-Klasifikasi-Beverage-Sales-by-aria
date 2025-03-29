@@ -5,10 +5,6 @@ Repository ini merupakan project sumbission dari dicoding
 Saya menggunakan data set berikut
 [Dataset Beverage Sales](https://www.kaggle.com/datasets/sebastianwillmann/beverage-sales)
 
-
-dikarenakan dataset terlalu besar jadi link dataset untuk Clustering dan Dataset untuk Klasifikasi / hasil dari clustering saya taro di drive berikut 
-[Dataset Clustering & Klasifikasi](https://)
-
 # Struktur Folder
 
 ```
